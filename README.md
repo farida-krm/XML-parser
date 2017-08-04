@@ -1,5 +1,5 @@
 # XML-parser
-XML parser to CSV 
+XML parser to CSV using BeautifulSoup and lxml
 ##### Sample Data
 ```
 <?xml version="1.0" encoding="UTF-8"?>
